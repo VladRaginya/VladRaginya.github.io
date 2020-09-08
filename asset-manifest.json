@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53fc723d.chunk.css",
+    "main.js": "/static/js/main.6347f68e.chunk.js",
+    "main.js.map": "/static/js/main.6347f68e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f3899347.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f3899347.js.map",
+    "static/css/2.c9d9291a.chunk.css": "/static/css/2.c9d9291a.chunk.css",
+    "static/js/2.75eb5930.chunk.js": "/static/js/2.75eb5930.chunk.js",
+    "static/js/2.75eb5930.chunk.js.map": "/static/js/2.75eb5930.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.01e15f9efb15bd57b570d68cb7a374be.js": "/precache-manifest.01e15f9efb15bd57b570d68cb7a374be.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.c9d9291a.chunk.css.map": "/static/css/2.c9d9291a.chunk.css.map",
+    "static/css/main.53fc723d.chunk.css.map": "/static/css/main.53fc723d.chunk.css.map",
+    "static/js/2.75eb5930.chunk.js.LICENSE.txt": "/static/js/2.75eb5930.chunk.js.LICENSE.txt",
+    "static/media/))).jpg": "/static/media/))).751d6178.jpg",
+    "static/media/)).jpg": "/static/media/)).15a9fe26.jpg",
+    "static/media/FarmerPage.css": "/static/media/img2.b8bd0ceb.jpg",
+    "static/media/FarmHouseMainPage.css": "/static/media/bg.c57eb4d7.jpg",
+    "static/media/upload-image.png": "/static/media/upload-image.3f2eb72f.png",
+    "static/media/user-icon.png": "/static/media/user-icon.afa75b83.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3899347.js",
+    "static/css/2.c9d9291a.chunk.css",
+    "static/js/2.75eb5930.chunk.js",
+    "static/css/main.53fc723d.chunk.css",
+    "static/js/main.6347f68e.chunk.js"
+  ]
+}
